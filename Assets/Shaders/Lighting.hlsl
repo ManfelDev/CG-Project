@@ -59,7 +59,7 @@ void MainLightInformation_half(float3 WorldPos, out half3 Direction, out half3 C
     DistanceAttenuation = mainLight.distanceAttenuation;
 
     #if !defined(_MAIN_LIGHT_SHADOWS) || defined(_RECEIVE_SHADOWS_OFF)
-        ShadowAttenuation = 1.0h;
+        ShadowAttenuation = 1.0;
     #endif
 
     #if SHADOWS_SCREEN
