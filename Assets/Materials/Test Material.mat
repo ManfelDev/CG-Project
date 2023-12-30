@@ -69,8 +69,16 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _Specular_Map:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _Texture:
         m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_b9573881eced4b7ca132aa5d8681f06b_Out_0_Texture2D:
+        m_Texture: {fileID: 2800000, guid: e3093f927dbbb864d860d918037e6e52, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -97,6 +105,7 @@ Material:
     - _ClearCoatSmoothness: 0
     - _Cull: 2
     - _Cutoff: 0.5
+    - _Dabbing_Tiles: 20
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
@@ -115,8 +124,8 @@ Material:
     - _Rim_Light_Size: 0
     - _Shadow_Blend: 0
     - _Shadow_Size: 0
-    - _Side_Shine_Size: 0.448
-    - _Smoothness: 0.582
+    - _Side_Shine_Size: 0.082
+    - _Smoothness: 0.453
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
@@ -129,11 +138,12 @@ Material:
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Diffuse_Color: {r: 1, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _Shadow_Blend: {r: 0, g: 0, b: 0, a: 0}
     - _Shadow_Size: {r: 0, g: 0, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
-    - _Specular_Color: {r: 1, g: 1, b: 1, a: 0}
+    - _Specular_Color: {r: 1, g: 1, b: 1, a: 0.2627451}
   m_BuildTextureStacks: []
 --- !u!114 &2458768236676829361
 MonoBehaviour:
