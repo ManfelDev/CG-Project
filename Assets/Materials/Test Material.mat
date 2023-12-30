@@ -115,8 +115,8 @@ Material:
     - _Rim_Light_Size: 0
     - _Shadow_Blend: 0
     - _Shadow_Size: 0
-    - _Side_Shine_Size: 0
-    - _Smoothness: 1
+    - _Side_Shine_Size: 0.448
+    - _Smoothness: 0.582
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
