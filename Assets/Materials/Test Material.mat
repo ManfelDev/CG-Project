@@ -116,7 +116,7 @@ Material:
     - _GlossyReflections: 0
     - _Metallic: 0
     - _OcclusionStrength: 1
-    - _Outline_Fade: 0
+    - _Outline_Fade: 1
     - _Outline_Pixel: 2
     - _Outline_Pixels: 2
     - _Outline_Size: 2
@@ -128,7 +128,7 @@ Material:
     - _Rim_Light_Size: 0
     - _Shadow_Blend: 0
     - _Shadow_Size: 0
-    - _Side_Shine_Size: 0.082
+    - _Side_Shine_Size: 0.203
     - _Smoothness: 0.488
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
@@ -142,7 +142,7 @@ Material:
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _Diffuse_Color: {r: 1, g: 1, b: 1, a: 0}
+    - _Diffuse_Color: {r: 1, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _Outline_Color: {r: 0, g: 0, b: 0, a: 0}
     - _Shadow_Blend: {r: 0, g: 0, b: 0, a: 0}
