@@ -129,7 +129,7 @@ Material:
     - _Shadow_Blend: 0
     - _Shadow_Size: 0
     - _Side_Shine_Size: 0.082
-    - _Smoothness: 0.453
+    - _Smoothness: 0.488
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
@@ -142,13 +142,13 @@ Material:
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _Diffuse_Color: {r: 1, g: 0, b: 0, a: 0}
+    - _Diffuse_Color: {r: 1, g: 1, b: 1, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _Outline_Color: {r: 0, g: 0, b: 0, a: 0}
     - _Shadow_Blend: {r: 0, g: 0, b: 0, a: 0}
     - _Shadow_Size: {r: 0, g: 0, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
-    - _Specular_Color: {r: 0.9921569, g: 0, b: 0, a: 1}
+    - _Specular_Color: {r: 0.6132076, g: 0.6132076, b: 0.6132076, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &2458768236676829361
 MonoBehaviour:
