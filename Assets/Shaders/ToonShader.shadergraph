@@ -339,9 +339,6 @@
             "m_Id": "ca6246db152444928ec113616788197d"
         },
         {
-            "m_Id": "63a61dcf67494e4dbaa638b45a18d1b5"
-        },
-        {
             "m_Id": "6797cbcac26646dfb0915fe44498d517"
         },
         {
@@ -361,6 +358,9 @@
         },
         {
             "m_Id": "8b29084eb52947e289a7fe43bc7c6963"
+        },
+        {
+            "m_Id": "81e9f01e8bda4e988242a7cdd3652e92"
         }
     ],
     "m_StickyNoteDatas": [],
@@ -3312,7 +3312,7 @@
     "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
     "m_ObjectId": "248db012e69140b39996223e7233a8de",
     "m_Group": {
-        "m_Id": "63a61dcf67494e4dbaa638b45a18d1b5"
+        "m_Id": "81e9f01e8bda4e988242a7cdd3652e92"
     },
     "m_Name": "Property",
     "m_DrawState": {
@@ -4300,7 +4300,7 @@
     "m_Type": "UnityEditor.ShaderGraph.StepNode",
     "m_ObjectId": "3f134ac9099a4d358a6e9f6e7b749fdd",
     "m_Group": {
-        "m_Id": "63a61dcf67494e4dbaa638b45a18d1b5"
+        "m_Id": "81e9f01e8bda4e988242a7cdd3652e92"
     },
     "m_Name": "Step",
     "m_DrawState": {
@@ -5784,17 +5784,6 @@
 
 {
     "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.GroupData",
-    "m_ObjectId": "63a61dcf67494e4dbaa638b45a18d1b5",
-    "m_Title": "Backlight",
-    "m_Position": {
-        "x": -1336.0,
-        "y": -1385.0
-    }
-}
-
-{
-    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.ComparisonNode",
     "m_ObjectId": "665a31d696184686880a59ab9e8a7b4a",
     "m_Group": {
@@ -6831,6 +6820,17 @@
         "y": 0.0,
         "z": 0.0,
         "w": 0.0
+    }
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.GroupData",
+    "m_ObjectId": "81e9f01e8bda4e988242a7cdd3652e92",
+    "m_Title": "Rim light",
+    "m_Position": {
+        "x": 10.0,
+        "y": 10.0
     }
 }
 
@@ -8585,7 +8585,7 @@
     "m_Type": "UnityEditor.ShaderGraph.FresnelNode",
     "m_ObjectId": "ac91321ec99e4f7b84f01eb67fe03e92",
     "m_Group": {
-        "m_Id": "63a61dcf67494e4dbaa638b45a18d1b5"
+        "m_Id": "81e9f01e8bda4e988242a7cdd3652e92"
     },
     "m_Name": "Fresnel Effect",
     "m_DrawState": {
@@ -11551,7 +11551,7 @@
     "m_Type": "UnityEditor.ShaderGraph.OneMinusNode",
     "m_ObjectId": "ea287446ed144060a7ffdf47791c46f0",
     "m_Group": {
-        "m_Id": "63a61dcf67494e4dbaa638b45a18d1b5"
+        "m_Id": "81e9f01e8bda4e988242a7cdd3652e92"
     },
     "m_Name": "One Minus",
     "m_DrawState": {
