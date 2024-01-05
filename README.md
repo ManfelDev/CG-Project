@@ -105,7 +105,7 @@ Basically, I took a gradient and mapped the same values to a sample gradient to 
 ![](https://iili.io/J5rMWap.png)
 
 ## Rim Light
-It's essentially a light outline wwhich always appears around the character updating from the angle we are looking at it, and its color is the one that the light reflects from each part of the object (if one part of the object is blue the glow will be blue but if another part is white the glow will be white, etc.). This is achieved through a step between the desired size of this light and a Fresnel Effect, manipulating the Fresnel Effect to achieve the desired size of the light. A value size of 1 means the entire model is filled with this light. The light expands and contracts from the edges of the model towards the center or vice versa.
+It's essentially a light outline which always appears around the character updating from the angle we are looking at it, and its color is the one that the light reflects from each part of the object (if one part of the object is blue the glow will be blue but if another part is white the glow will be white, etc.). This is achieved through a step between the desired size of this light and a Fresnel Effect, manipulating the Fresnel Effect to achieve the desired size of the light. A value size of 1 means the entire model is filled with this light. The light expands and contracts from the edges of the model towards the center or vice versa.
 
 **In shader graph:**
 
