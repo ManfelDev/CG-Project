@@ -125,7 +125,8 @@ It illuminates the side being lit by the light at the brightest point of the lig
 
 **Preview:**
 
-![](https://iili.io/J5sO1Og.gif)
+![](https://github.com/Rafael-j-03/CG-Project/assets/115217461/abe1cbd9-f385-4252-a98b-b1c7beb06a61)
+
 (The preview has the side shine + ramp shading)
 
 ## Painted specular
